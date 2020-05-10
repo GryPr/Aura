@@ -8,7 +8,7 @@ This project is being open sourced as I have discontinued development due to sch
 
 ## Running the bot
 
-The bot is run through the main.py script. I highly recommend running it in Docker in a Linux environment for easier hosting. Do not forget to install Python 3.4 alongside the dependencies listed below. If you have any issues, feel free to ask here on this Github. I will do my best to answer them.
+The bot is run through the main.py script.  Do not forget to install Python 3.4 alongside the dependencies listed below. If you have any issues, feel free to ask here on this Github. I will do my best to answer them.
 
 ## Dependencies
 
