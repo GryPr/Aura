@@ -10,6 +10,11 @@ This project is being open sourced as I have discontinued development due to sch
 
 The bot is run through the main.py script.  Do not forget to install Python 3.4 alongside the dependencies listed below. If you have any issues, feel free to ask here on this Github. I will do my best to answer them.
 
+## Statistics
+* Used in 30+ Discord servers
+* 23 300 users registered in the database
+  ![](https://i.imgur.com/FadAaOF.png)
+
 ## Dependencies
 
 * Discord.py
