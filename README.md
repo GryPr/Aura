@@ -12,8 +12,8 @@ The bot is run through the main.py script.  Do not forget to install Python 3.4 
 
 ## Statistics
 * Used in 30+ Discord servers
-* 23 300 users registered in the database
-  ![](https://i.imgur.com/FadAaOF.png)
+* 23 300 users registered in the database as of 2020!
+  ![](https://i.imgur.com/g5G2Rek.png)
 
 ## Dependencies
 
